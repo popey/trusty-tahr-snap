@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Trusty Tahr
+Exec=trusty-tahr %U
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/trusty-tahr.png
+StartupWMClass=trusty-tahr
+Comment=Download and install Ubuntu 14.04.6 in a VM
