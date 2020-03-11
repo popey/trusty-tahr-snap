@@ -5,7 +5,7 @@
 RELEASE="14.04.6"
 CODENAME="trusty-tahr"
 ARCHITECTURE="amd64"
-ISOHOST="old-releases.ubuntu.com"
+ISOHOST="releases.ubuntu.com"
 ISOURL="http://$ISOHOST/releases/$RELEASE/ubuntu-$RELEASE-desktop-$ARCHITECTURE.iso"
 ISOFILE="$SNAP_USER_COMMON"/ubuntu-$RELEASE-desktop-$ARCHITECTURE.iso
 DISKFILE="$SNAP_USER_COMMON"/$CODENAME.qcow2
