@@ -1,5 +1,6 @@
 name: trusty-tahr
 base: core18
+assumes: 2.43
 version: '14.04.6'
 summary: Download and install Ubuntu 14.04.6 in a VM
 description: |
